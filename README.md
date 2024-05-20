@@ -47,6 +47,6 @@
 
 
 ## Иллюстрации
-![gif](https://github.com/DinDron/test/blob/main/gif "Teaching-RSL")
-![plan](https://github.com/DinDron/test/blob/main/Рисунок2.png "Teaching-RSL")
+![gif](https://github.com/DinDron/test/blob/main/gif "GigaNiga")
+![plan](https://github.com/DinDron/test/blob/main/Рисунок2.png "GigaNiga")
 

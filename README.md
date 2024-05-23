@@ -47,7 +47,7 @@
 
 
 ## Иллюстрации
-![video](https://github.com/DinDron/test/blob/main/11111111.mp4 "GigaNiga")
+![video](https://github.com/DinDron/test/blob/main/11111111.gif "GigaNiga")
 ![UI](https://github.com/DinDron/test/blob/main/Screenshot_1.png "GigaNiga")
 ![key enter](https://github.com/DinDron/test/blob/main/Screenshot_2.png "GigaNiga")
 ![plan](https://github.com/DinDron/test/blob/main/Рисунок2.png "GigaNiga")
